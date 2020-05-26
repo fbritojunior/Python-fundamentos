@@ -4,10 +4,9 @@
 
 Códigos e testes iniciais utilizados no curso Python Fundamentos para Análise de Dados da Data Science Academy (DSA, https://www.datascienceacademy.com.br).
 
-#### Utilizando as seguintes ferramentas: 
+#### Utilizando os seguintes pacotes da linguagem Python: 
 
-- Python;
 - Numpy;
 - Pandas;
-
-
+- Matplotlib;
+- Scikit-learn;
